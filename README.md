@@ -1,29 +1,9 @@
-# 👋 Hi, I'm Pratik Darade
+<h1 align="center">Hi 👋, I'm Pratik</h1>
+<h3 align="center">A passionate frontend develData Analyst | Insight-Driven Storyteller | Analytics Enthusiastoper from India</h3>
 
-🎯 **Data Analyst | Insight-Driven Storyteller | Analytics Enthusiast**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-Welcome to my GitHub! I'm passionate about transforming raw data into meaningful insights that drive smarter decisions. With a solid foundation in data analytics and business intelligence, I focus on using data to solve real-world problems.
-
-## 🧰 Tech Stack
-
-### 📊 Data Analysis & Visualization
-- **Python**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-- **R**: dplyr, ggplot2
-- **SQL**: MySQL, PostgreSQL, complex joins, subqueries
-- **Power BI** & **Tableau**: Interactive dashboards and storytelling with data
-- **Excel**: PivotTables, VLOOKUP, data cleaning and automation
-
-### 🏗️ Data Engineering & ETL
-- **Informatica PowerCenter**
-- **ETL Pipelines**: Data extraction, transformation, loading from flat files and APIs
-- **Data Integration**: Merging data from multiple sources for unified analysis
-
-### 🧪 Data Science & Machine Learning
-- **Scikit-learn**: Regression, classification, model evaluation
-- **Jupyter Notebooks**: Exploratory data analysis and prototyping
-
-### 🛠️ Tools & Platforms
-- **Git & GitHub**
-- **VS Code**, **Jupyter Lab**
-- **APIs & JSON**: Data retrieval, parsing, and transformation
-- **Microsoft Access** (basic)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
